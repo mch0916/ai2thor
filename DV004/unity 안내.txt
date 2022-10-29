@@ -1,0 +1,13 @@
+
+unity 버전은 2020.3.39f1에서 작업이 진행되었습니다.
+
+exe 파일 이동 안내
+
+- wasd로 이동
+- 마우스 왼쪽클릭으로 화면 회전
+- f1으로 segmentation on/off 가능
+
+
+unitypackage import 방법
+
+- Assets - unitypackage - Custompackage 클릭 후 DA004S009.unitypackage 클릭
